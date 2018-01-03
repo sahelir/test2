@@ -1,4 +1,5 @@
 # ▤ SideMenu
+Sudipa1
 [![Version](https://img.shields.io/cocoapods/v/SideMenu.svg?style=flat)](http://cocoapods.org/pods/SideMenu)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![License](https://img.shields.io/cocoapods/l/SideMenu.svg?style=flat)](http://cocoapods.org/pods/SideMenu)
@@ -356,4 +357,4 @@ A special thank you to everyone that has [contributed](https://github.com/jonkyk
 
 ## License
 
-SideMenu is available under the MIT license. See the LICENSE file for more info.
+SideMenu is available under the MIT license. See the LICENSE file for more info. jhbjbkjh
